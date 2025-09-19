@@ -10,3 +10,5 @@ en esta primera semana del BootCamp
 <img width="1535" height="249" alt="image" src="https://github.com/user-attachments/assets/efbf7079-df92-4659-a7b0-d2d116f066b4" /> <br>
 ## Rechazo PR
 <img width="1202" height="867" alt="image" src="https://github.com/user-attachments/assets/afb95f0f-6d0c-42d9-89ce-b331b2d92290" /> <br>
+### Aprobado tras rechazo
+<img width="1156" height="586" alt="image" src="https://github.com/user-attachments/assets/53a8541d-66f9-40c2-b7bb-e3f8713f8d53" />
