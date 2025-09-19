@@ -1,0 +1,9 @@
+manual de usuario inicio
+
+añadir el archivo con git add manual_usuario
+
+añadir con commit lo que hemos realizado
+
+finalmente push para subir el archivo
+
+
