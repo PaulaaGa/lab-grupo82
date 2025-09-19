@@ -8,3 +8,5 @@ en esta primera semana del BootCamp
 <img width="1562" height="332" alt="imagen" src="https://github.com/user-attachments/assets/59849870-3e69-452b-9d46-578fcbd97301" />
 ## Tarea 3. Petición Pull Request
 <img width="1535" height="249" alt="image" src="https://github.com/user-attachments/assets/efbf7079-df92-4659-a7b0-d2d116f066b4" />
+## Rechazo PR
+<img width="1202" height="867" alt="image" src="https://github.com/user-attachments/assets/afb95f0f-6d0c-42d9-89ce-b331b2d92290" />
