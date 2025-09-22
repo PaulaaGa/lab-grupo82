@@ -6,4 +6,7 @@ Principal tarea
 
 Asignacion de roles-> A, B, C, D 
 
-A=Paula B=Mauro C=Ale D=Rocio
+A=Paula B=Marou C=Ale D=Rocio
+
+### Holaa Ale!! Marou ha añadido esta línea para la tarea 7, la revisión cruzada.
+
